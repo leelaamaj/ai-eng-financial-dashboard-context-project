@@ -1,0 +1,72 @@
+{
+  "facets": {
+    "operation_types": [
+      "income",
+      "outcome"
+    ],
+    "business_types": [
+      "B2B",
+      "B2C"
+    ],
+    "categories": [
+      "administrative",
+      "operational",
+      "others",
+      "sales",
+      "suppliers"
+    ],
+    "min_date": "2025-11-01",
+    "max_date": "2026-10-28"
+  },
+  "alerts": [
+    {
+      "period": "2025-12",
+      "outcome_total": 103378.98,
+      "baseline_average": 41404.44,
+      "increase_ratio": 1.4968
+    },
+    {
+      "period": "2026-03",
+      "outcome_total": 88076.9,
+      "baseline_average": 55334.29,
+      "increase_ratio": 0.5917
+    },
+    {
+      "period": "2026-06",
+      "outcome_total": 80212.01,
+      "baseline_average": 57416.5,
+      "increase_ratio": 0.397
+    },
+    {
+      "period": "2026-08",
+      "outcome_total": 82189.37,
+      "baseline_average": 60291.89,
+      "increase_ratio": 0.3632
+    }
+  ],
+  "B2B": [
+    {
+      "category": "sales",
+      "operation_type": "income",
+      "total_amount": 557903.97
+    },
+    {
+      "category": "others",
+      "operation_type": "income",
+      "total_amount": 57636.75
+    }
+  ],
+  "B2C": [
+    {
+      "category": "sales",
+      "operation_type": "income",
+      "total_amount": 574193.41
+    },
+    {
+      "category": "others",
+      "operation_type": "income",
+      "total_amount": 68412.74
+    }
+  ],
+  "checks": "inclusive dates and empty future range passed"
+}
