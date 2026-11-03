@@ -34,7 +34,7 @@ function App() {
       })
       .catch(() => {
         setError(
-          "No se pudo cargar la informacion financiera. Revisa la API de backend.",
+          "Unable to load financial data. Check the backend API and reload the page.",
         );
       })
       .finally(() => {
@@ -43,31 +43,37 @@ function App() {
   }, []);
 
   return (
-    <main className="dark min-h-screen bg-background text-foreground">
+    <div className="dark min-h-screen bg-background text-foreground">
+    <a className="skip-link" href="#dashboard-content">Skip to dashboard</a>
+    <main id="dashboard-content" tabIndex={-1}>
       <div className="mx-auto max-w-7xl px-4 py-8 sm:px-6 lg:px-8">
         <div className="flex flex-col gap-8">
-          <DashboardHeader period="2024 - Full Year" />
+          <DashboardHeader period="All available data" />
+          <p className="sr-only" role="status">{loading ? "Loading financial dashboard" : error ? "" : "Financial dashboard loaded"}</p>
 
           {error ? (
-            <div className="rounded-lg border border-destructive/30 bg-destructive/10 p-4 text-sm text-destructive-foreground">
+            <div role="alert" className="rounded-lg border border-destructive/30 bg-destructive/10 p-4 text-sm text-destructive-foreground">
               {error}
             </div>
           ) : null}
 
+          <div aria-busy={loading}>
           <section aria-label="Key performance indicators">
             <KPIRow metrics={metrics} loading={loading} />
           </section>
 
-          <section
+          {!error ? <section
             aria-label="Financial charts"
             className="grid grid-cols-1 gap-4 xl:grid-cols-2"
           >
             <IncomeOutcomeChart data={monthlyData} loading={loading} />
             <ProfitPercentChart data={monthlyData} loading={loading} />
-          </section>
+          </section> : null}
+          </div>
         </div>
       </div>
     </main>
+    </div>
   );
 }
 

@@ -1,4 +1,5 @@
-import { Card, CardContent, CardHeader, CardTitle, CardDescription } from '@/components/ui/card'
+import { ChartDataTable } from "./chart-data-table"
+import { Card, CardContent, CardHeader, CardDescription } from '@/components/ui/card'
 import { Skeleton } from '@/components/ui/skeleton'
 import { type MonthlyDataPoint } from '@/lib/financial-types'
 import { formatCurrency } from '@/lib/financial-utils'
@@ -66,7 +67,7 @@ export function IncomeOutcomeChart({ data, loading }: IncomeOutcomeChartProps) {
   return (
     <Card className="border-border/60">
       <CardHeader className="pb-4">
-        <CardTitle className="text-base font-semibold">Income vs. Outcome</CardTitle>
+        <h2 className="text-base font-semibold">Income vs. Outcome</h2>
         <CardDescription>Monthly revenue and expenditure evolution</CardDescription>
       </CardHeader>
       <CardContent>
@@ -75,8 +76,10 @@ export function IncomeOutcomeChart({ data, loading }: IncomeOutcomeChartProps) {
             No data available to display
           </div>
         ) : (
+          <>
+          <div role="img" aria-label="Income versus outcome chart. Exact monthly values are available in the data table below.">
           <ResponsiveContainer width="100%" height={280}>
-            <LineChart data={data} margin={{ top: 4, right: 8, left: 0, bottom: 0 }}>
+            <LineChart accessibilityLayer={false} data={data} margin={{ top: 4, right: 8, left: 0, bottom: 0 }}>
               <CartesianGrid strokeDasharray="3 3" stroke="var(--color-border)" strokeOpacity={0.6} />
               <XAxis
                 dataKey="month"
@@ -117,6 +120,9 @@ export function IncomeOutcomeChart({ data, loading }: IncomeOutcomeChartProps) {
               />
             </LineChart>
           </ResponsiveContainer>
+          </div>
+          <ChartDataTable data={data} kind="movements" />
+          </>
         )}
       </CardContent>
     </Card>
