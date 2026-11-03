@@ -51,7 +51,7 @@
   --secondary: oklch(0.24 0.015 240);
   --secondary-foreground: oklch(0.94 0.005 240);
   --muted: oklch(0.24 0.015 240);
-  --muted-foreground: oklch(0.62 0.01 240);
+  --muted-foreground: oklch(0.72 0.01 240);
   --accent: oklch(0.24 0.015 240);
   --accent-foreground: oklch(0.94 0.005 240);
   --destructive: oklch(0.45 0.18 27);
@@ -122,4 +122,16 @@ html,
 body,
 #root {
   min-height: 100%;
+}
+
+/* accessibility skill: visible focus, reduced motion, and forced-color usability. */
+:focus-visible { outline: 3px solid currentColor; outline-offset: 4px; }
+.skip-link { position: absolute; left: 1rem; top: 0; z-index: 20; padding: .75rem 1rem; background: Canvas; color: CanvasText; transform: translateY(-150%); }
+.skip-link:focus { transform: translateY(.5rem); }
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation-duration: .01ms !important; animation-iteration-count: 1 !important; transition-duration: .01ms !important; scroll-behavior: auto !important; }
+}
+@media (forced-colors: active) {
+  [data-slot="card"], summary, button { border: 1px solid CanvasText; }
+  :focus-visible { outline-color: Highlight; }
 }

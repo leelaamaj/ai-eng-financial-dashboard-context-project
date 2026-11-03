@@ -1,0 +1,310 @@
+
+[38;5;250m███████╗██╗  ██╗██╗██╗     ██╗     ███████╗[0m
+[38;5;248m██╔════╝██║ ██╔╝██║██║     ██║     ██╔════╝[0m
+[38;5;245m███████╗█████╔╝ ██║██║     ██║     ███████╗[0m
+[38;5;243m╚════██║██╔═██╗ ██║██║     ██║     ╚════██║[0m
+[38;5;240m███████║██║  ██╗██║███████╗███████╗███████║[0m
+[38;5;238m╚══════╝╚═╝  ╚═╝╚═╝╚══════╝╚══════╝╚══════╝[0m
+
+[38;5;102mInstall with[0m npx skills add <owner/repo@skill>
+
+[38;5;145mcoreyhaines31/marketingskills@seo-audit[0m [36m244.8K installs[0m
+[38;5;102m└ https://skills.sh/coreyhaines31/marketingskills/seo-audit[0m
+
+[38;5;145mfirecrawl/firecrawl-workflows@firecrawl-seo-audit[0m [36m32.2K installs[0m
+[38;5;102m└ https://skills.sh/firecrawl/firecrawl-workflows/firecrawl-seo-audit[0m
+
+[38;5;145mcoreyhaines31/marketingskills@ai-seo[0m [36m157.1K installs[0m
+[38;5;102m└ https://skills.sh/coreyhaines31/marketingskills/ai-seo[0m
+
+[38;5;145mcoreyhaines31/marketingskills@programmatic-seo[0m [36m155.4K installs[0m
+[38;5;102m└ https://skills.sh/coreyhaines31/marketingskills/programmatic-seo[0m
+
+[38;5;145maddyosmani/web-quality-skills@seo[0m [36m53.5K installs[0m
+[38;5;102m└ https://skills.sh/addyosmani/web-quality-skills/seo[0m
+
+[38;5;145miannuttall/seo@seo[0m [36m19.5K installs[0m
+[38;5;102m└ https://skills.sh/iannuttall/seo/seo[0m
+
+[38;5;145mresciencelab/opc-skills@seo-geo[0m [36m55.3K installs[0m
+[38;5;102m└ https://skills.sh/resciencelab/opc-skills/seo-geo[0m
+
+[38;5;145msanity-io/agent-toolkit@seo-aeo-best-practices[0m [36m7.5K installs[0m
+[38;5;102m└ https://skills.sh/sanity-io/agent-toolkit/seo-aeo-best-practices[0m
+
+[38;5;145magricidaniel/claude-seo@seo[0m [36m9.6K installs[0m
+[38;5;102m└ https://skills.sh/agricidaniel/claude-seo/seo[0m
+
+[38;5;145maffaan-m/ecc@seo[0m [36m10.3K installs[0m
+[38;5;102m└ https://skills.sh/affaan-m/ecc/seo[0m
+
+[38;5;145manthropics/knowledge-work-plugins@seo-audit[0m [36m3.8K installs[0m
+[38;5;102m└ https://skills.sh/anthropics/knowledge-work-plugins/seo-audit[0m
+
+[38;5;145msamber/developer-relations-skills@docs-seo[0m [36m12.8K installs[0m
+[38;5;102m└ https://skills.sh/samber/developer-relations-skills/docs-seo[0m
+
+[38;5;145magricidaniel/claude-seo@seo-audit[0m [36m8.5K installs[0m
+[38;5;102m└ https://skills.sh/agricidaniel/claude-seo/seo-audit[0m
+
+[38;5;145magricidaniel/claude-seo@seo-content[0m [36m8.2K installs[0m
+[38;5;102m└ https://skills.sh/agricidaniel/claude-seo/seo-content[0m
+
+[38;5;145magricidaniel/claude-seo@seo-competitor-pages[0m [36m8K installs[0m
+[38;5;102m└ https://skills.sh/agricidaniel/claude-seo/seo-competitor-pages[0m
+
+[38;5;145magricidaniel/claude-seo@seo-sitemap[0m [36m7.7K installs[0m
+[38;5;102m└ https://skills.sh/agricidaniel/claude-seo/seo-sitemap[0m
+
+[38;5;145magricidaniel/claude-seo@seo-local[0m [36m7.6K installs[0m
+[38;5;102m└ https://skills.sh/agricidaniel/claude-seo/seo-local[0m
+
+[38;5;145magricidaniel/claude-seo@seo-technical[0m [36m7.6K installs[0m
+[38;5;102m└ https://skills.sh/agricidaniel/claude-seo/seo-technical[0m
+
+[38;5;145magricidaniel/claude-seo@seo-geo[0m [36m7.6K installs[0m
+[38;5;102m└ https://skills.sh/agricidaniel/claude-seo/seo-geo[0m
+
+[38;5;145magricidaniel/claude-seo@seo-backlinks[0m [36m7.6K installs[0m
+[38;5;102m└ https://skills.sh/agricidaniel/claude-seo/seo-backlinks[0m
+
+[38;5;145maaron-he-zhu/seo-geo-claude-skills@seo-content-writer[0m [36m7.6K installs[0m
+[38;5;102m└ https://skills.sh/aaron-he-zhu/seo-geo-claude-skills/seo-content-writer[0m
+
+[38;5;145magricidaniel/claude-seo@seo-schema[0m [36m7.5K installs[0m
+[38;5;102m└ https://skills.sh/agricidaniel/claude-seo/seo-schema[0m
+
+[38;5;145magricidaniel/claude-seo@seo-page[0m [36m7.3K installs[0m
+[38;5;102m└ https://skills.sh/agricidaniel/claude-seo/seo-page[0m
+
+[38;5;145magricidaniel/claude-seo@seo-plan[0m [36m7.2K installs[0m
+[38;5;102m└ https://skills.sh/agricidaniel/claude-seo/seo-plan[0m
+
+[38;5;145magricidaniel/claude-seo@seo-images[0m [36m7.2K installs[0m
+[38;5;102m└ https://skills.sh/agricidaniel/claude-seo/seo-images[0m
+
+[38;5;145magricidaniel/claude-seo@seo-cluster[0m [36m7.1K installs[0m
+[38;5;102m└ https://skills.sh/agricidaniel/claude-seo/seo-cluster[0m
+
+[38;5;145magricidaniel/claude-seo@seo-hreflang[0m [36m7.1K installs[0m
+[38;5;102m└ https://skills.sh/agricidaniel/claude-seo/seo-hreflang[0m
+
+[38;5;145magricidaniel/claude-seo@seo-programmatic[0m [36m7K installs[0m
+[38;5;102m└ https://skills.sh/agricidaniel/claude-seo/seo-programmatic[0m
+
+[38;5;145mevery-app/open-seo@seo-project-setup[0m [36m7K installs[0m
+[38;5;102m└ https://skills.sh/every-app/open-seo/seo-project-setup[0m
+
+[38;5;145mevery-app/open-seo@seo-coach[0m [36m6.9K installs[0m
+[38;5;102m└ https://skills.sh/every-app/open-seo/seo-coach[0m
+
+[38;5;145magricidaniel/claude-seo@seo-google[0m [36m6.8K installs[0m
+[38;5;102m└ https://skills.sh/agricidaniel/claude-seo/seo-google[0m
+
+[38;5;145magricidaniel/claude-seo@seo-maps[0m [36m6.6K installs[0m
+[38;5;102m└ https://skills.sh/agricidaniel/claude-seo/seo-maps[0m
+
+[38;5;145magricidaniel/claude-seo@seo-ecommerce[0m [36m6.6K installs[0m
+[38;5;102m└ https://skills.sh/agricidaniel/claude-seo/seo-ecommerce[0m
+
+[38;5;145magricidaniel/claude-seo@seo-dataforseo[0m [36m6.5K installs[0m
+[38;5;102m└ https://skills.sh/agricidaniel/claude-seo/seo-dataforseo[0m
+
+[38;5;145magricidaniel/claude-seo@seo-image-gen[0m [36m6.4K installs[0m
+[38;5;102m└ https://skills.sh/agricidaniel/claude-seo/seo-image-gen[0m
+
+[38;5;145mnomadamas/k-skill@seoul-subway-arrival[0m [36m9.6K installs[0m
+[38;5;102m└ https://skills.sh/nomadamas/k-skill/seoul-subway-arrival[0m
+
+[38;5;145magricidaniel/claude-seo@seo-content-brief[0m [36m6.3K installs[0m
+[38;5;102m└ https://skills.sh/agricidaniel/claude-seo/seo-content-brief[0m
+
+[38;5;145magricidaniel/claude-seo@seo-drift[0m [36m6.1K installs[0m
+[38;5;102m└ https://skills.sh/agricidaniel/claude-seo/seo-drift[0m
+
+[38;5;145magricidaniel/claude-seo@seo-sxo[0m [36m6K installs[0m
+[38;5;102m└ https://skills.sh/agricidaniel/claude-seo/seo-sxo[0m
+
+[38;5;145magricidaniel/claude-seo@seo-flow[0m [36m5.8K installs[0m
+[38;5;102m└ https://skills.sh/agricidaniel/claude-seo/seo-flow[0m
+
+[38;5;145maaron-he-zhu/seo-geo-claude-skills@technical-seo-checker[0m [36m5.6K installs[0m
+[38;5;102m└ https://skills.sh/aaron-he-zhu/seo-geo-claude-skills/technical-seo-checker[0m
+
+[38;5;145mevery-app/open-seo@seo-audit[0m [36m5.4K installs[0m
+[38;5;102m└ https://skills.sh/every-app/open-seo/seo-audit[0m
+
+[38;5;145maaron-he-zhu/seo-geo-claude-skills@on-page-seo-auditor[0m [36m5.4K installs[0m
+[38;5;102m└ https://skills.sh/aaron-he-zhu/seo-geo-claude-skills/on-page-seo-auditor[0m
+
+[38;5;145mnomadamas/k-skill@seoul-density[0m [36m7.5K installs[0m
+[38;5;102m└ https://skills.sh/nomadamas/k-skill/seoul-density[0m
+
+[38;5;145mnomadamas/k-skill@seoul-bike[0m [36m7.1K installs[0m
+[38;5;102m└ https://skills.sh/nomadamas/k-skill/seoul-bike[0m
+
+[38;5;145mevery-app/open-seo@local-seo[0m [36m4.7K installs[0m
+[38;5;102m└ https://skills.sh/every-app/open-seo/local-seo[0m
+
+[38;5;145mnomadamas/k-skill@seoul-weather-risk[0m [36m5.4K installs[0m
+[38;5;102m└ https://skills.sh/nomadamas/k-skill/seoul-weather-risk[0m
+
+[38;5;145mclaude-office-skills/skills@seo-optimizer[0m [36m4.9K installs[0m
+[38;5;102m└ https://skills.sh/claude-office-skills/skills/seo-optimizer[0m
+
+[38;5;145mkostja94/marketing-skills@youtube-seo[0m [36m3.5K installs[0m
+[38;5;102m└ https://skills.sh/kostja94/marketing-skills/youtube-seo[0m
+
+[38;5;145mseo-skills/seo-audit-skill@seo-audit[0m [36m1.2K installs[0m
+[38;5;102m└ https://skills.sh/seo-skills/seo-audit-skill/seo-audit[0m
+
+[38;5;145mevery-app/open-seo@seo-report[0m [36m2.3K installs[0m
+[38;5;102m└ https://skills.sh/every-app/open-seo/seo-report[0m
+
+[38;5;145mcalm-north/seojuice-skills@diagnose-seo[0m [36m2.2K installs[0m
+[38;5;102m└ https://skills.sh/calm-north/seojuice-skills/diagnose-seo[0m
+
+[38;5;145monmax/nuxt-skills@nuxt-seo[0m [36m3.2K installs[0m
+[38;5;102m└ https://skills.sh/onmax/nuxt-skills/nuxt-seo[0m
+
+[38;5;145magricidaniel/claude-blog@blog-seo-check[0m [36m2.7K installs[0m
+[38;5;102m└ https://skills.sh/agricidaniel/claude-blog/blog-seo-check[0m
+
+[38;5;145mkostja94/marketing-skills@local-seo[0m [36m2.6K installs[0m
+[38;5;102m└ https://skills.sh/kostja94/marketing-skills/local-seo[0m
+
+[38;5;145mlaguagu/claude-code-nextjs-skills@nextjs-seo[0m [36m2.5K installs[0m
+[38;5;102m└ https://skills.sh/laguagu/claude-code-nextjs-skills/nextjs-seo[0m
+
+[38;5;145mkostja94/marketing-skills@entity-seo[0m [36m2.3K installs[0m
+[38;5;102m└ https://skills.sh/kostja94/marketing-skills/entity-seo[0m
+
+[38;5;145mkostja94/marketing-skills@programmatic-seo[0m [36m2.2K installs[0m
+[38;5;102m└ https://skills.sh/kostja94/marketing-skills/programmatic-seo[0m
+
+[38;5;145magricidaniel/claude-seo@seo-agentic[0m [36m1.4K installs[0m
+[38;5;102m└ https://skills.sh/agricidaniel/claude-seo/seo-agentic[0m
+
+[38;5;145mkostja94/marketing-skills@parasite-seo[0m [36m2K installs[0m
+[38;5;102m└ https://skills.sh/kostja94/marketing-skills/parasite-seo[0m
+
+[38;5;145mjezweb/claude-skills@seo-local-business[0m [36m1.9K installs[0m
+[38;5;102m└ https://skills.sh/jezweb/claude-skills/seo-local-business[0m
+
+[38;5;145mbrightdata/skills@seo-audit[0m [36m1.9K installs[0m
+[38;5;102m└ https://skills.sh/brightdata/skills/seo-audit[0m
+
+[38;5;145maaron-he-zhu/aaron-marketing-skills@technical-seo-checker[0m [36m1.6K installs[0m
+[38;5;102m└ https://skills.sh/aaron-he-zhu/aaron-marketing-skills/technical-seo-checker[0m
+
+[38;5;145mnexscope-ai/ecommerce-skills@etsy-seo[0m [36m1.4K installs[0m
+[38;5;102m└ https://skills.sh/nexscope-ai/ecommerce-skills/etsy-seo[0m
+
+[38;5;145maaron-he-zhu/aaron-marketing-skills@on-page-seo-checker[0m [36m1.4K installs[0m
+[38;5;102m└ https://skills.sh/aaron-he-zhu/aaron-marketing-skills/on-page-seo-checker[0m
+
+[38;5;145mkostja94/marketing-skills@seo-strategy[0m [36m1.3K installs[0m
+[38;5;102m└ https://skills.sh/kostja94/marketing-skills/seo-strategy[0m
+
+[38;5;145mnexscope-ai/ecommerce-skills@product-page-seo[0m [36m1.3K installs[0m
+[38;5;102m└ https://skills.sh/nexscope-ai/ecommerce-skills/product-page-seo[0m
+
+[38;5;145mailabs-393/ai-labs-claude-skills@seo-optimizer[0m [36m1.3K installs[0m
+[38;5;102m└ https://skills.sh/ailabs-393/ai-labs-claude-skills/seo-optimizer[0m
+
+[38;5;145mkostja94/marketing-skills@seo-monitoring[0m [36m1.2K installs[0m
+[38;5;102m└ https://skills.sh/kostja94/marketing-skills/seo-monitoring[0m
+
+[38;5;145mcoreyhaines31/marketingskills@content-strategy[0m [36m170.3K installs[0m
+[38;5;102m└ https://skills.sh/coreyhaines31/marketingskills/content-strategy[0m
+
+[38;5;145mfirecrawl/firecrawl-workflows@firecrawl-workflows[0m [36m32.8K installs[0m
+[38;5;102m└ https://skills.sh/firecrawl/firecrawl-workflows/firecrawl-workflows[0m
+
+[38;5;145mcoreyhaines31/marketingskills@site-architecture[0m [36m127.8K installs[0m
+[38;5;102m└ https://skills.sh/coreyhaines31/marketingskills/site-architecture[0m
+
+[38;5;145mcoreyhaines31/marketingskills@directory-submissions[0m [36m90.2K installs[0m
+[38;5;102m└ https://skills.sh/coreyhaines31/marketingskills/directory-submissions[0m
+
+[38;5;145mcoreyhaines31/marketingskills@schema[0m [36m83.3K installs[0m
+[38;5;102m└ https://skills.sh/coreyhaines31/marketingskills/schema[0m
+
+[38;5;145mcoreyhaines31/marketingskills@competitors[0m [36m83.3K installs[0m
+[38;5;102m└ https://skills.sh/coreyhaines31/marketingskills/competitors[0m
+
+[38;5;145mapify/agent-skills@apify-ultimate-scraper[0m [36m16.5K installs[0m
+[38;5;102m└ https://skills.sh/apify/agent-skills/apify-ultimate-scraper[0m
+
+[38;5;145mcoreyhaines31/marketingskills@free-tools[0m [36m78.2K installs[0m
+[38;5;102m└ https://skills.sh/coreyhaines31/marketingskills/free-tools[0m
+
+[38;5;145msquirrelscan/skills@audit-website[0m [36m74.7K installs[0m
+[38;5;102m└ https://skills.sh/squirrelscan/skills/audit-website[0m
+
+[38;5;145mcoreyhaines31/marketingskills@schema-markup[0m [36m55.5K installs[0m
+[38;5;102m└ https://skills.sh/coreyhaines31/marketingskills/schema-markup[0m
+
+[38;5;145mcoreyhaines31/marketingskills@competitor-alternatives[0m [36m54.2K installs[0m
+[38;5;102m└ https://skills.sh/coreyhaines31/marketingskills/competitor-alternatives[0m
+
+[38;5;145mcoreyhaines31/marketingskills@free-tool-strategy[0m [36m52.3K installs[0m
+[38;5;102m└ https://skills.sh/coreyhaines31/marketingskills/free-tool-strategy[0m
+
+[38;5;145mcoreyhaines31/marketingskills@marketing-loops[0m [36m52.1K installs[0m
+[38;5;102m└ https://skills.sh/coreyhaines31/marketingskills/marketing-loops[0m
+
+[38;5;145maaron-he-zhu/seo-geo-claude-skills@backlink-analyzer[0m [36m26.1K installs[0m
+[38;5;102m└ https://skills.sh/aaron-he-zhu/seo-geo-claude-skills/backlink-analyzer[0m
+
+[38;5;145maddyosmani/web-quality-skills@web-quality-audit[0m [36m34.5K installs[0m
+[38;5;102m└ https://skills.sh/addyosmani/web-quality-skills/web-quality-audit[0m
+
+[38;5;145manthropics/knowledge-work-plugins@content-creation[0m [36m5K installs[0m
+[38;5;102m└ https://skills.sh/anthropics/knowledge-work-plugins/content-creation[0m
+
+[38;5;145manthropics/knowledge-work-plugins@draft-content[0m [36m3K installs[0m
+[38;5;102m└ https://skills.sh/anthropics/knowledge-work-plugins/draft-content[0m
+
+[38;5;145msamber/developer-relations-skills@developer-docs-structure-audit[0m [36m13.1K installs[0m
+[38;5;102m└ https://skills.sh/samber/developer-relations-skills/developer-docs-structure-audit[0m
+
+[38;5;145msamber/developer-relations-skills@developer-keyword-research[0m [36m12.9K installs[0m
+[38;5;102m└ https://skills.sh/samber/developer-relations-skills/developer-keyword-research[0m
+
+[38;5;145msamber/developer-relations-skills@developer-troubleshooting-docs[0m [36m12.8K installs[0m
+[38;5;102m└ https://skills.sh/samber/developer-relations-skills/developer-troubleshooting-docs[0m
+
+[38;5;145mlangchain-ai/deepagents@blog-post[0m [36m2.2K installs[0m
+[38;5;102m└ https://skills.sh/langchain-ai/deepagents/blog-post[0m
+
+[38;5;145mevery-app/open-seo@keyword-research[0m [36m7.2K installs[0m
+[38;5;102m└ https://skills.sh/every-app/open-seo/keyword-research[0m
+
+[38;5;145mcalm-north/seojuice-skills@find-keywords[0m [36m7K installs[0m
+[38;5;102m└ https://skills.sh/calm-north/seojuice-skills/find-keywords[0m
+
+[38;5;145mevery-app/open-seo@competitor-analysis[0m [36m7K installs[0m
+[38;5;102m└ https://skills.sh/every-app/open-seo/competitor-analysis[0m
+
+[38;5;145mevery-app/open-seo@keyword-clustering[0m [36m6.9K installs[0m
+[38;5;102m└ https://skills.sh/every-app/open-seo/keyword-clustering[0m
+
+[38;5;145mevery-app/open-seo@competitive-landscape[0m [36m6.9K installs[0m
+[38;5;102m└ https://skills.sh/every-app/open-seo/competitive-landscape[0m
+
+[38;5;145mevery-app/open-seo@link-prospecting[0m [36m6.9K installs[0m
+[38;5;102m└ https://skills.sh/every-app/open-seo/link-prospecting[0m
+
+[38;5;145maaron-he-zhu/seo-geo-claude-skills@keyword-research[0m [36m6.8K installs[0m
+[38;5;102m└ https://skills.sh/aaron-he-zhu/seo-geo-claude-skills/keyword-research[0m
+
+[38;5;145mcalm-north/seojuice-skills@optimize-for-ai[0m [36m6.6K installs[0m
+[38;5;102m└ https://skills.sh/calm-north/seojuice-skills/optimize-for-ai[0m
+
+[38;5;145mcalm-north/seojuice-skills@build-links[0m [36m6.5K installs[0m
+[38;5;102m└ https://skills.sh/calm-north/seojuice-skills/build-links[0m
+
+[38;5;145mcalm-north/seojuice-skills@brief[0m [36m6.4K installs[0m
+[38;5;102m└ https://skills.sh/calm-north/seojuice-skills/brief[0m
+

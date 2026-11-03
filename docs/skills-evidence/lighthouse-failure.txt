@@ -1,0 +1,4 @@
+Runtime error encountered: waiting for dynamic debugging port in chrome-err.log
+Error: waiting for dynamic debugging port in chrome-err.log
+    at checkReady (file:///home/codespace/.npm/_npx/0f94ee7615faf582/node_modules/chrome-launcher/dist/chrome-launcher.js:314:47)
+    at poll (file:///home/codespace/.npm/_npx/0f94ee7615faf582/node_modules/chrome-launcher/dist/chrome-launcher.js:318:17)
