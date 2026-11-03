@@ -1,0 +1,100 @@
+{
+  "/health": {
+    "status": 200,
+    "body": {
+      "status": "ok"
+    }
+  },
+  "/api/metrics/facets": {
+    "status": 200,
+    "body": {
+      "operation_types": [
+        "income",
+        "outcome"
+      ],
+      "business_types": [
+        "B2B",
+        "B2C"
+      ],
+      "categories": [
+        "administrative",
+        "operational",
+        "others",
+        "sales",
+        "suppliers"
+      ],
+      "min_date": "2025-11-01",
+      "max_date": "2026-10-28"
+    }
+  },
+  "/api/metrics?start_date=2025-11-01&end_date=2025-11-01": {
+    "status": 200,
+    "body": [
+      {
+        "create_date": "2025-11-01",
+        "amount": 5465.56,
+        "operation_type": "income",
+        "category": "sales",
+        "business_type": "B2C"
+      }
+    ]
+  },
+  "/api/metrics?start_date=2027-10-29&end_date=2027-10-29": {
+    "status": 200,
+    "body": []
+  },
+  "/api/metrics/alerts": {
+    "status": 200,
+    "body": [
+      {
+        "period": "2025-12",
+        "outcome_total": 103378.98,
+        "baseline_average": 41404.44,
+        "increase_ratio": 1.4968
+      },
+      {
+        "period": "2026-03",
+        "outcome_total": 88076.9,
+        "baseline_average": 55334.29,
+        "increase_ratio": 0.5917
+      },
+      {
+        "period": "2026-06",
+        "outcome_total": 80212.01,
+        "baseline_average": 57416.5,
+        "increase_ratio": 0.397
+      },
+      {
+        "period": "2026-08",
+        "outcome_total": 82189.37,
+        "baseline_average": 60291.89,
+        "increase_ratio": 0.3632
+      }
+    ]
+  },
+  "/api/metrics/categories/top": {
+    "status": 200,
+    "body": [
+      {
+        "category": "others",
+        "operation_type": "outcome",
+        "total_amount": 224428.44
+      },
+      {
+        "category": "operational",
+        "operation_type": "outcome",
+        "total_amount": 196093.22
+      },
+      {
+        "category": "administrative",
+        "operation_type": "outcome",
+        "total_amount": 188143.37
+      },
+      {
+        "category": "suppliers",
+        "operation_type": "outcome",
+        "total_amount": 153467.23
+      }
+    ]
+  }
+}

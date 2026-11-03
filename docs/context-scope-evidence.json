@@ -1,0 +1,6 @@
+{
+  "runtime_diff_vs_baseline": "empty",
+  "live_docs_status": 200,
+  "openapi_paths_verified": 9,
+  "services": "Existing Compose services; backend source unchanged versus context baseline. Frontend baseline built/tested separately from this worktree."
+}
