@@ -1,0 +1,310 @@
+
+[38;5;250m███████╗██╗  ██╗██╗██╗     ██╗     ███████╗[0m
+[38;5;248m██╔════╝██║ ██╔╝██║██║     ██║     ██╔════╝[0m
+[38;5;245m███████╗█████╔╝ ██║██║     ██║     ███████╗[0m
+[38;5;243m╚════██║██╔═██╗ ██║██║     ██║     ╚════██║[0m
+[38;5;240m███████║██║  ██╗██║███████╗███████╗███████║[0m
+[38;5;238m╚══════╝╚═╝  ╚═╝╚═╝╚══════╝╚══════╝╚══════╝[0m
+
+[38;5;102mInstall with[0m npx skills add <owner/repo@skill>
+
+[38;5;145mconvex/agent-skills@convex-performance-audit[0m [36m94.3K installs[0m
+[38;5;102m└ https://skills.sh/convex/agent-skills/convex-performance-audit[0m
+
+[38;5;145maddyosmani/web-quality-skills@performance[0m [36m42.5K installs[0m
+[38;5;102m└ https://skills.sh/addyosmani/web-quality-skills/performance[0m
+
+[38;5;145mgreensock/gsap-skills@gsap-performance[0m [36m74.8K installs[0m
+[38;5;102m└ https://skills.sh/greensock/gsap-skills/gsap-performance[0m
+
+[38;5;145maddyosmani/agent-skills@performance-optimization[0m [36m71.1K installs[0m
+[38;5;102m└ https://skills.sh/addyosmani/agent-skills/performance-optimization[0m
+
+[38;5;145memilkowalski/skills@animation-performance[0m [36m56K installs[0m
+[38;5;102m└ https://skills.sh/emilkowalski/skills/animation-performance[0m
+
+[38;5;145mgithub/awesome-copilot@power-bi-performance-troubleshooting[0m [36m8.9K installs[0m
+[38;5;102m└ https://skills.sh/github/awesome-copilot/power-bi-performance-troubleshooting[0m
+
+[38;5;145msamber/cc-skills-golang@golang-performance[0m [36m43K installs[0m
+[38;5;102m└ https://skills.sh/samber/cc-skills-golang/golang-performance[0m
+
+[38;5;145mwshobson/agents@python-performance-optimization[0m [36m37.1K installs[0m
+[38;5;102m└ https://skills.sh/wshobson/agents/python-performance-optimization[0m
+
+[38;5;145mibelick/ui-skills@fixing-motion-performance[0m [36m27.9K installs[0m
+[38;5;102m└ https://skills.sh/ibelick/ui-skills/fixing-motion-performance[0m
+
+[38;5;145mmbfinotti/partnerships-skills@affiliate-performance-dashboard[0m [36m16.7K installs[0m
+[38;5;102m└ https://skills.sh/mbfinotti/partnerships-skills/affiliate-performance-dashboard[0m
+
+[38;5;145mmbfinotti/partnerships-skills@partner-performance[0m [36m16.4K installs[0m
+[38;5;102m└ https://skills.sh/mbfinotti/partnerships-skills/partner-performance[0m
+
+[38;5;145mdimillian/skills@swiftui-performance-audit[0m [36m10.2K installs[0m
+[38;5;102m└ https://skills.sh/dimillian/skills/swiftui-performance-audit[0m
+
+[38;5;145mgoogle/skills@google-cloud-waf-performance-optimization[0m [36m10K installs[0m
+[38;5;102m└ https://skills.sh/google/skills/google-cloud-waf-performance-optimization[0m
+
+[38;5;145mgamedev-skills/awesome-gamedev-agent-skills@performance-optimization[0m [36m9.6K installs[0m
+[38;5;102m└ https://skills.sh/gamedev-skills/awesome-gamedev-agent-skills/performance-optimization[0m
+
+[38;5;145maffaan-m/ecc@react-performance[0m [36m7K installs[0m
+[38;5;102m└ https://skills.sh/affaan-m/ecc/react-performance[0m
+
+[38;5;145mpixijs/pixijs-skills@pixijs-performance[0m [36m6.6K installs[0m
+[38;5;102m└ https://skills.sh/pixijs/pixijs-skills/pixijs-performance[0m
+
+[38;5;145mnomadamas/k-skill@naver-ad-performance[0m [36m6.3K installs[0m
+[38;5;102m└ https://skills.sh/nomadamas/k-skill/naver-ad-performance[0m
+
+[38;5;145mnomadamas/k-skill@kopis-performance-search[0m [36m6.2K installs[0m
+[38;5;102m└ https://skills.sh/nomadamas/k-skill/kopis-performance-search[0m
+
+[38;5;145mdotnet/skills@analyzing-dotnet-performance[0m [36m5.4K installs[0m
+[38;5;102m└ https://skills.sh/dotnet/skills/analyzing-dotnet-performance[0m
+
+[38;5;145mvercel-labs/agent-skills@vercel-react-best-practices[0m [36m865.4K installs[0m
+[38;5;102m└ https://skills.sh/vercel-labs/agent-skills/vercel-react-best-practices[0m
+
+[38;5;145mvercel-labs/agent-skills@vercel-optimize[0m [36m119.8K installs[0m
+[38;5;102m└ https://skills.sh/vercel-labs/agent-skills/vercel-optimize[0m
+
+[38;5;145msupabase/agent-skills@supabase-postgres-best-practices[0m [36m471.5K installs[0m
+[38;5;102m└ https://skills.sh/supabase/agent-skills/supabase-postgres-best-practices[0m
+
+[38;5;145manthropics/skills@skill-creator[0m [36m422.5K installs[0m
+[38;5;102m└ https://skills.sh/anthropics/skills/skill-creator[0m
+
+[38;5;145mmattpocock/skills@diagnosing-bugs[0m [36m884.6K installs[0m
+[38;5;102m└ https://skills.sh/mattpocock/skills/diagnosing-bugs[0m
+
+[38;5;145mcloudflare/skills@web-perf[0m [36m117.5K installs[0m
+[38;5;102m└ https://skills.sh/cloudflare/skills/web-perf[0m
+
+[38;5;145mmattpocock/skills@diagnose[0m [36m227.6K installs[0m
+[38;5;102m└ https://skills.sh/mattpocock/skills/diagnose[0m
+
+[38;5;145mfirecrawl/firecrawl-workflows@firecrawl-qa[0m [36m31.5K installs[0m
+[38;5;102m└ https://skills.sh/firecrawl/firecrawl-workflows/firecrawl-qa[0m
+
+[38;5;145mcallstackincubator/agent-skills@react-native-best-practices[0m [36m31.2K installs[0m
+[38;5;102m└ https://skills.sh/callstackincubator/agent-skills/react-native-best-practices[0m
+
+[38;5;145memilkowalski/skills@write-swift[0m [36m136.3K installs[0m
+[38;5;102m└ https://skills.sh/emilkowalski/skills/write-swift[0m
+
+[38;5;145mjuliusbrussee/caveman@investigate-first[0m [36m113.9K installs[0m
+[38;5;102m└ https://skills.sh/juliusbrussee/caveman/investigate-first[0m
+
+[38;5;145mgoogle-labs-code/stitch-skills@taste-design[0m [36m20.7K installs[0m
+[38;5;102m└ https://skills.sh/google-labs-code/stitch-skills/taste-design[0m
+
+[38;5;145mcurrents-dev/playwright-best-practices-skill@playwright-best-practices[0m [36m101.8K installs[0m
+[38;5;102m└ https://skills.sh/currents-dev/playwright-best-practices-skill/playwright-best-practices[0m
+
+[38;5;145mheygen-com/hyperframes@gsap[0m [36m92.1K installs[0m
+[38;5;102m└ https://skills.sh/heygen-com/hyperframes/gsap[0m
+
+[38;5;145mmcollina/skills@fastify-best-practices[0m [36m89.1K installs[0m
+[38;5;102m└ https://skills.sh/mcollina/skills/fastify-best-practices[0m
+
+[38;5;145mcoreyhaines31/marketingskills@ads[0m [36m87.8K installs[0m
+[38;5;102m└ https://skills.sh/coreyhaines31/marketingskills/ads[0m
+
+[38;5;145mpbakaus/impeccable@audit[0m [36m81.9K installs[0m
+[38;5;102m└ https://skills.sh/pbakaus/impeccable/audit[0m
+
+[38;5;145mpbakaus/impeccable@optimize[0m [36m81.1K installs[0m
+[38;5;102m└ https://skills.sh/pbakaus/impeccable/optimize[0m
+
+[38;5;145mgithub/awesome-copilot@sql-optimization[0m [36m15.9K installs[0m
+[38;5;102m└ https://skills.sh/github/awesome-copilot/sql-optimization[0m
+
+[38;5;145mgithub/awesome-copilot@chrome-devtools[0m [36m15.3K installs[0m
+[38;5;102m└ https://skills.sh/github/awesome-copilot/chrome-devtools[0m
+
+[38;5;145msquirrelscan/skills@audit-website[0m [36m74.7K installs[0m
+[38;5;102m└ https://skills.sh/squirrelscan/skills/audit-website[0m
+
+[38;5;145maddyosmani/agent-skills@browser-testing-with-devtools[0m [36m64.2K installs[0m
+[38;5;102m└ https://skills.sh/addyosmani/agent-skills/browser-testing-with-devtools[0m
+
+[38;5;145manthropics/knowledge-work-plugins@code-review[0m [36m10K installs[0m
+[38;5;102m└ https://skills.sh/anthropics/knowledge-work-plugins/code-review[0m
+
+[38;5;145mgithub/awesome-copilot@powerbi-modeling[0m [36m10K installs[0m
+[38;5;102m└ https://skills.sh/github/awesome-copilot/powerbi-modeling[0m
+
+[38;5;145mgithub/awesome-copilot@power-bi-dax-optimization[0m [36m9.2K installs[0m
+[38;5;102m└ https://skills.sh/github/awesome-copilot/power-bi-dax-optimization[0m
+
+[38;5;145mflutter/agent-plugins@flutter-caching-data[0m [36m8.7K installs[0m
+[38;5;102m└ https://skills.sh/flutter/agent-plugins/flutter-caching-data[0m
+
+[38;5;145mplanetscale/database-skills@postgres[0m [36m8.5K installs[0m
+[38;5;102m└ https://skills.sh/planetscale/database-skills/postgres[0m
+
+[38;5;145msamber/cc-skills-golang@golang-data-structures[0m [36m41.3K installs[0m
+[38;5;102m└ https://skills.sh/samber/cc-skills-golang/golang-data-structures[0m
+
+[38;5;145msamber/cc-skills-golang@golang-troubleshooting[0m [36m41K installs[0m
+[38;5;102m└ https://skills.sh/samber/cc-skills-golang/golang-troubleshooting[0m
+
+[38;5;145msamber/cc-skills-golang@golang-observability[0m [36m40.9K installs[0m
+[38;5;102m└ https://skills.sh/samber/cc-skills-golang/golang-observability[0m
+
+[38;5;145msamber/cc-skills-golang@golang-benchmark[0m [36m40.5K installs[0m
+[38;5;102m└ https://skills.sh/samber/cc-skills-golang/golang-benchmark[0m
+
+[38;5;145mconvex/agent-skills@convex-reviewer[0m [36m39.2K installs[0m
+[38;5;102m└ https://skills.sh/convex/agent-skills/convex-reviewer[0m
+
+[38;5;145maddyosmani/agent-skills@constraint-driven-development[0m [36m38.9K installs[0m
+[38;5;102m└ https://skills.sh/addyosmani/agent-skills/constraint-driven-development[0m
+
+[38;5;145mshadcn/improve@improve[0m [36m38.7K installs[0m
+[38;5;102m└ https://skills.sh/shadcn/improve/improve[0m
+
+[38;5;145msamber/cc-skills-golang@golang-how-to[0m [36m37.4K installs[0m
+[38;5;102m└ https://skills.sh/samber/cc-skills-golang/golang-how-to[0m
+
+[38;5;145melevenlabs/skills@voice-changer[0m [36m7.5K installs[0m
+[38;5;102m└ https://skills.sh/elevenlabs/skills/voice-changer[0m
+
+[38;5;145mtwostraws/swiftui-agent-skill@swiftui-pro[0m [36m36.7K installs[0m
+[38;5;102m└ https://skills.sh/twostraws/swiftui-agent-skill/swiftui-pro[0m
+
+[38;5;145mavdlee/swiftui-agent-skill@swiftui-expert-skill[0m [36m35.8K installs[0m
+[38;5;102m└ https://skills.sh/avdlee/swiftui-agent-skill/swiftui-expert-skill[0m
+
+[38;5;145maddyosmani/web-quality-skills@web-quality-audit[0m [36m34.5K installs[0m
+[38;5;102m└ https://skills.sh/addyosmani/web-quality-skills/web-quality-audit[0m
+
+[38;5;145mclickhouse/agent-skills@clickhouse-managed-postgres-rca[0m [36m6.7K installs[0m
+[38;5;102m└ https://skills.sh/clickhouse/agent-skills/clickhouse-managed-postgres-rca[0m
+
+[38;5;145mmbfinotti/sales-skills@sales-comp-design[0m [36m32K installs[0m
+[38;5;102m└ https://skills.sh/mbfinotti/sales-skills/sales-comp-design[0m
+
+[38;5;145maws/agent-toolkit-for-aws@aws-transform[0m [36m6.4K installs[0m
+[38;5;102m└ https://skills.sh/aws/agent-toolkit-for-aws/aws-transform[0m
+
+[38;5;145mkadajett/agent-nestjs-skills@nestjs-best-practices[0m [36m31.1K installs[0m
+[38;5;102m└ https://skills.sh/kadajett/agent-nestjs-skills/nestjs-best-practices[0m
+
+[38;5;145msoftware-mansion/argent@argent-react-native-optimization[0m [36m28.7K installs[0m
+[38;5;102m└ https://skills.sh/software-mansion/argent/argent-react-native-optimization[0m
+
+[38;5;145msoftware-mansion/argent@argent-react-native-profiler[0m [36m28.5K installs[0m
+[38;5;102m└ https://skills.sh/software-mansion/argent/argent-react-native-profiler[0m
+
+[38;5;145msoftware-mansion/argent@argent-native-profiler[0m [36m28.4K installs[0m
+[38;5;102m└ https://skills.sh/software-mansion/argent/argent-native-profiler[0m
+
+[38;5;145mwshobson/agents@postgresql-table-design[0m [36m28.4K installs[0m
+[38;5;102m└ https://skills.sh/wshobson/agents/postgresql-table-design[0m
+
+[38;5;145mgetsentry/skills@code-review[0m [36m5.6K installs[0m
+[38;5;102m└ https://skills.sh/getsentry/skills/code-review[0m
+
+[38;5;145mgithub/awesome-copilot@web-coder[0m [36m5.5K installs[0m
+[38;5;102m└ https://skills.sh/github/awesome-copilot/web-coder[0m
+
+[38;5;145mmongodb/agent-skills@mongodb-connection[0m [36m5.4K installs[0m
+[38;5;102m└ https://skills.sh/mongodb/agent-skills/mongodb-connection[0m
+
+[38;5;145mmbfinotti/advertising-skills@paid-media-scaling[0m [36m25.5K installs[0m
+[38;5;102m└ https://skills.sh/mbfinotti/advertising-skills/paid-media-scaling[0m
+
+[38;5;145mmbfinotti/advertising-skills@advertising-hiring[0m [36m25.4K installs[0m
+[38;5;102m└ https://skills.sh/mbfinotti/advertising-skills/advertising-hiring[0m
+
+[38;5;145mmbfinotti/advertising-skills@advertising-career[0m [36m25.4K installs[0m
+[38;5;102m└ https://skills.sh/mbfinotti/advertising-skills/advertising-career[0m
+
+[38;5;145mmbfinotti/advertising-skills@advertising-radar[0m [36m25.4K installs[0m
+[38;5;102m└ https://skills.sh/mbfinotti/advertising-skills/advertising-radar[0m
+
+[38;5;145mmbfinotti/advertising-skills@ad-hook-analyzer[0m [36m25.2K installs[0m
+[38;5;102m└ https://skills.sh/mbfinotti/advertising-skills/ad-hook-analyzer[0m
+
+[38;5;145mmbfinotti/advertising-skills@conversational-ad-copy[0m [36m24.8K installs[0m
+[38;5;102m└ https://skills.sh/mbfinotti/advertising-skills/conversational-ad-copy[0m
+
+[38;5;145mwshobson/agents@sql-optimization-patterns[0m [36m20.2K installs[0m
+[38;5;102m└ https://skills.sh/wshobson/agents/sql-optimization-patterns[0m
+
+[38;5;145mjeffallan/claude-skills@golang-pro[0m [36m19.2K installs[0m
+[38;5;102m└ https://skills.sh/jeffallan/claude-skills/golang-pro[0m
+
+[38;5;145mwshobson/agents@async-python-patterns[0m [36m18.5K installs[0m
+[38;5;102m└ https://skills.sh/wshobson/agents/async-python-patterns[0m
+
+[38;5;145mgmgnai/gmgn-skills@gmgn-portfolio[0m [36m18.4K installs[0m
+[38;5;102m└ https://skills.sh/gmgnai/gmgn-skills/gmgn-portfolio[0m
+
+[38;5;145mejirocodes/agent-skills@svelte5-best-practices[0m [36m18K installs[0m
+[38;5;102m└ https://skills.sh/ejirocodes/agent-skills/svelte5-best-practices[0m
+
+[38;5;145mmbfinotti/partnerships-skills@influencer-measurement-framework[0m [36m16.3K installs[0m
+[38;5;102m└ https://skills.sh/mbfinotti/partnerships-skills/influencer-measurement-framework[0m
+
+[38;5;145maffaan-m/ecc@frontend-patterns[0m [36m15.9K installs[0m
+[38;5;102m└ https://skills.sh/affaan-m/ecc/frontend-patterns[0m
+
+[38;5;145mcloudai-x/threejs-skills@threejs-lighting[0m [36m15.5K installs[0m
+[38;5;102m└ https://skills.sh/cloudai-x/threejs-skills/threejs-lighting[0m
+
+[38;5;145mjeffallan/claude-skills@flutter-expert[0m [36m14.6K installs[0m
+[38;5;102m└ https://skills.sh/jeffallan/claude-skills/flutter-expert[0m
+
+[38;5;145mjeffallan/claude-skills@kubernetes-specialist[0m [36m14.4K installs[0m
+[38;5;102m└ https://skills.sh/jeffallan/claude-skills/kubernetes-specialist[0m
+
+[38;5;145mwshobson/agents@debugging-strategies[0m [36m13.7K installs[0m
+[38;5;102m└ https://skills.sh/wshobson/agents/debugging-strategies[0m
+
+[38;5;145mwshobson/agents@gitlab-ci-patterns[0m [36m13.4K installs[0m
+[38;5;102m└ https://skills.sh/wshobson/agents/gitlab-ci-patterns[0m
+
+[38;5;145mwshobson/agents@llm-evaluation[0m [36m13.1K installs[0m
+[38;5;102m└ https://skills.sh/wshobson/agents/llm-evaluation[0m
+
+[38;5;145maffaan-m/ecc@prompt-optimizer[0m [36m13K installs[0m
+[38;5;102m└ https://skills.sh/affaan-m/ecc/prompt-optimizer[0m
+
+[38;5;145msickn33/agentic-awesome-skills@typescript-expert[0m [36m12.7K installs[0m
+[38;5;102m└ https://skills.sh/sickn33/agentic-awesome-skills/typescript-expert[0m
+
+[38;5;145mwshobson/agents@unity-ecs-patterns[0m [36m12.3K installs[0m
+[38;5;102m└ https://skills.sh/wshobson/agents/unity-ecs-patterns[0m
+
+[38;5;145mgracefullight/stock-checker@stock-analysis[0m [36m12.2K installs[0m
+[38;5;102m└ https://skills.sh/gracefullight/stock-checker/stock-analysis[0m
+
+[38;5;145mwshobson/agents@startup-metrics-framework[0m [36m11.5K installs[0m
+[38;5;102m└ https://skills.sh/wshobson/agents/startup-metrics-framework[0m
+
+[38;5;145maffaan-m/ecc@clickhouse-io[0m [36m11.4K installs[0m
+[38;5;102m└ https://skills.sh/affaan-m/ecc/clickhouse-io[0m
+
+[38;5;145mwshobson/agents@cqrs-implementation[0m [36m11.2K installs[0m
+[38;5;102m└ https://skills.sh/wshobson/agents/cqrs-implementation[0m
+
+[38;5;145mwshobson/agents@distributed-tracing[0m [36m11K installs[0m
+[38;5;102m└ https://skills.sh/wshobson/agents/distributed-tracing[0m
+
+[38;5;145maffaan-m/ecc@swiftui-patterns[0m [36m11K installs[0m
+[38;5;102m└ https://skills.sh/affaan-m/ecc/swiftui-patterns[0m
+
+[38;5;145mwshobson/agents@spark-optimization[0m [36m10.9K installs[0m
+[38;5;102m└ https://skills.sh/wshobson/agents/spark-optimization[0m
+
+[38;5;145mwshobson/agents@similarity-search-patterns[0m [36m10.9K installs[0m
+[38;5;102m└ https://skills.sh/wshobson/agents/similarity-search-patterns[0m
+
+[38;5;145mwshobson/agents@vector-index-tuning[0m [36m10.9K installs[0m
+[38;5;102m└ https://skills.sh/wshobson/agents/vector-index-tuning[0m
+

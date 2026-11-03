@@ -1,0 +1,310 @@
+
+[38;5;250m███████╗██╗  ██╗██╗██╗     ██╗     ███████╗[0m
+[38;5;248m██╔════╝██║ ██╔╝██║██║     ██║     ██╔════╝[0m
+[38;5;245m███████╗█████╔╝ ██║██║     ██║     ███████╗[0m
+[38;5;243m╚════██║██╔═██╗ ██║██║     ██║     ╚════██║[0m
+[38;5;240m███████║██║  ██╗██║███████╗███████╗███████║[0m
+[38;5;238m╚══════╝╚═╝  ╚═╝╚═╝╚══════╝╚══════╝╚══════╝[0m
+
+[38;5;102mInstall with[0m npx skills add <owner/repo@skill>
+
+[38;5;145manthropics/skills@webapp-testing[0m [36m196K installs[0m
+[38;5;102m└ https://skills.sh/anthropics/skills/webapp-testing[0m
+
+[38;5;145mclerk/skills@clerk-testing[0m [36m47.4K installs[0m
+[38;5;102m└ https://skills.sh/clerk/skills/clerk-testing[0m
+
+[38;5;145mcoreyhaines31/marketingskills@ab-testing[0m [36m81.9K installs[0m
+[38;5;102m└ https://skills.sh/coreyhaines31/marketingskills/ab-testing[0m
+
+[38;5;145maddyosmani/agent-skills@browser-testing-with-devtools[0m [36m64.2K installs[0m
+[38;5;102m└ https://skills.sh/addyosmani/agent-skills/browser-testing-with-devtools[0m
+
+[38;5;145mgithub/awesome-copilot@webapp-testing[0m [36m12.5K installs[0m
+[38;5;102m└ https://skills.sh/github/awesome-copilot/webapp-testing[0m
+
+[38;5;145msamber/cc-skills-golang@golang-testing[0m [36m44.6K installs[0m
+[38;5;102m└ https://skills.sh/samber/cc-skills-golang/golang-testing[0m
+
+[38;5;145mlimrun-inc/skills@limrun-detox-testing[0m [36m43.8K installs[0m
+[38;5;102m└ https://skills.sh/limrun-inc/skills/limrun-detox-testing[0m
+
+[38;5;145mlimrun-inc/skills@limrun-maestro-testing[0m [36m41.9K installs[0m
+[38;5;102m└ https://skills.sh/limrun-inc/skills/limrun-maestro-testing[0m
+
+[38;5;145mwshobson/agents@python-testing-patterns[0m [36m39.2K installs[0m
+[38;5;102m└ https://skills.sh/wshobson/agents/python-testing-patterns[0m
+
+[38;5;145mwshobson/agents@e2e-testing-patterns[0m [36m24.8K installs[0m
+[38;5;102m└ https://skills.sh/wshobson/agents/e2e-testing-patterns[0m
+
+[38;5;145mriekelt/principal-engineer@testing-changes[0m [36m21K installs[0m
+[38;5;102m└ https://skills.sh/riekelt/principal-engineer/testing-changes[0m
+
+[38;5;145mwshobson/agents@javascript-testing-patterns[0m [36m20.9K installs[0m
+[38;5;102m└ https://skills.sh/wshobson/agents/javascript-testing-patterns[0m
+
+[38;5;145musestrix/strix@penetration-testing-with-strix[0m [36m18.7K installs[0m
+[38;5;102m└ https://skills.sh/usestrix/strix/penetration-testing-with-strix[0m
+
+[38;5;145musestrix/strix@managed-pentesting-with-strix[0m [36m17.2K installs[0m
+[38;5;102m└ https://skills.sh/usestrix/strix/managed-pentesting-with-strix[0m
+
+[38;5;145mtwostraws/swift-testing-agent-skill@swift-testing-pro[0m [36m10.4K installs[0m
+[38;5;102m└ https://skills.sh/twostraws/swift-testing-agent-skill/swift-testing-pro[0m
+
+[38;5;145musestrix/strix@web-app-penetration-testing[0m [36m14.9K installs[0m
+[38;5;102m└ https://skills.sh/usestrix/strix/web-app-penetration-testing[0m
+
+[38;5;145maffaan-m/ecc@golang-testing[0m [36m14.8K installs[0m
+[38;5;102m└ https://skills.sh/affaan-m/ecc/golang-testing[0m
+
+[38;5;145musestrix/strix@owasp-top-10-testing[0m [36m14.8K installs[0m
+[38;5;102m└ https://skills.sh/usestrix/strix/owasp-top-10-testing[0m
+
+[38;5;145musestrix/strix@api-security-testing[0m [36m14.8K installs[0m
+[38;5;102m└ https://skills.sh/usestrix/strix/api-security-testing[0m
+
+[38;5;145musestrix/strix@application-security-testing[0m [36m14.5K installs[0m
+[38;5;102m└ https://skills.sh/usestrix/strix/application-security-testing[0m
+
+[38;5;145mvuejs-ai/skills@vue-testing-best-practices[0m [36m14.4K installs[0m
+[38;5;102m└ https://skills.sh/vuejs-ai/skills/vue-testing-best-practices[0m
+
+[38;5;145maffaan-m/ecc@rust-testing[0m [36m13K installs[0m
+[38;5;102m└ https://skills.sh/affaan-m/ecc/rust-testing[0m
+
+[38;5;145maffaan-m/ecc@e2e-testing[0m [36m12.5K installs[0m
+[38;5;102m└ https://skills.sh/affaan-m/ecc/e2e-testing[0m
+
+[38;5;145maffaan-m/ecc@cpp-testing[0m [36m11.6K installs[0m
+[38;5;102m└ https://skills.sh/affaan-m/ecc/cpp-testing[0m
+
+[38;5;145mwshobson/agents@bats-testing-patterns[0m [36m11.3K installs[0m
+[38;5;102m└ https://skills.sh/wshobson/agents/bats-testing-patterns[0m
+
+[38;5;145mwshobson/agents@temporal-python-testing[0m [36m11.2K installs[0m
+[38;5;102m└ https://skills.sh/wshobson/agents/temporal-python-testing[0m
+
+[38;5;145mwshobson/agents@web3-testing[0m [36m11K installs[0m
+[38;5;102m└ https://skills.sh/wshobson/agents/web3-testing[0m
+
+[38;5;145mwshobson/agents@screen-reader-testing[0m [36m11K installs[0m
+[38;5;102m└ https://skills.sh/wshobson/agents/screen-reader-testing[0m
+
+[38;5;145maffaan-m/ecc@kotlin-testing[0m [36m10.7K installs[0m
+[38;5;102m└ https://skills.sh/affaan-m/ecc/kotlin-testing[0m
+
+[38;5;145maffaan-m/ecc@ai-regression-testing[0m [36m10.7K installs[0m
+[38;5;102m└ https://skills.sh/affaan-m/ecc/ai-regression-testing[0m
+
+[38;5;145maffaan-m/ecc@swift-protocol-di-testing[0m [36m10.6K installs[0m
+[38;5;102m└ https://skills.sh/affaan-m/ecc/swift-protocol-di-testing[0m
+
+[38;5;145mvercel-labs/agent-browser@agent-browser[0m [36m1.3M installs[0m
+[38;5;102m└ https://skills.sh/vercel-labs/agent-browser/agent-browser[0m
+
+[38;5;145mmattpocock/skills@setup-pre-commit[0m [36m518.3K installs[0m
+[38;5;102m└ https://skills.sh/mattpocock/skills/setup-pre-commit[0m
+
+[38;5;145mbrowser-use/browser-use@browser-use[0m [36m98.9K installs[0m
+[38;5;102m└ https://skills.sh/browser-use/browser-use/browser-use[0m
+
+[38;5;145mexpo/skills@expo-dev-client[0m [36m73K installs[0m
+[38;5;102m└ https://skills.sh/expo/skills/expo-dev-client[0m
+
+[38;5;145mflutter/agent-plugins@flutter-add-integration-test[0m [36m39.4K installs[0m
+[38;5;102m└ https://skills.sh/flutter/agent-plugins/flutter-add-integration-test[0m
+
+[38;5;145mflutter/agent-plugins@flutter-add-widget-preview[0m [36m38K installs[0m
+[38;5;102m└ https://skills.sh/flutter/agent-plugins/flutter-add-widget-preview[0m
+
+[38;5;145m101-skills/superpowers@agent-browser[0m [36m177.3K installs[0m
+[38;5;102m└ https://skills.sh/101-skills/superpowers/agent-browser[0m
+
+[38;5;145mfirecrawl/firecrawl-workflows@firecrawl-seo-audit[0m [36m32.2K installs[0m
+[38;5;102m└ https://skills.sh/firecrawl/firecrawl-workflows/firecrawl-seo-audit[0m
+
+[38;5;145mmagentosh/superpowers@agent-browser[0m [36m155.6K installs[0m
+[38;5;102m└ https://skills.sh/magentosh/superpowers/agent-browser[0m
+
+[38;5;145mantibrow/anti-detect-browser-skills@anti-detect-browser[0m [36m146.5K installs[0m
+[38;5;102m└ https://skills.sh/antibrow/anti-detect-browser-skills/anti-detect-browser[0m
+
+[38;5;145mcoreyhaines31/marketingskills@ad-creative[0m [36m139.8K installs[0m
+[38;5;102m└ https://skills.sh/coreyhaines31/marketingskills/ad-creative[0m
+
+[38;5;145memilkowalski/skills@write-swift[0m [36m136.3K installs[0m
+[38;5;102m└ https://skills.sh/emilkowalski/skills/write-swift[0m
+
+[38;5;145mqu-skills/superpowers@agent-browser[0m [36m117.4K installs[0m
+[38;5;102m└ https://skills.sh/qu-skills/superpowers/agent-browser[0m
+
+[38;5;145mskills-shell/superpowers@agent-browser[0m [36m114.1K installs[0m
+[38;5;102m└ https://skills.sh/skills-shell/superpowers/agent-browser[0m
+
+[38;5;145msolana-foundation/solana-dev-skill@solana-dev[0m [36m106.1K installs[0m
+[38;5;102m└ https://skills.sh/solana-foundation/solana-dev-skill/solana-dev[0m
+
+[38;5;145mcurrents-dev/playwright-best-practices-skill@playwright-best-practices[0m [36m101.8K installs[0m
+[38;5;102m└ https://skills.sh/currents-dev/playwright-best-practices-skill/playwright-best-practices[0m
+
+[38;5;145mcoreyhaines31/marketingskills@analytics[0m [36m89.2K installs[0m
+[38;5;102m└ https://skills.sh/coreyhaines31/marketingskills/analytics[0m
+
+[38;5;145mits-a-skill-issue/superpowers@agent-browser[0m [36m88.3K installs[0m
+[38;5;102m└ https://skills.sh/its-a-skill-issue/superpowers/agent-browser[0m
+
+[38;5;145mbankai-skills/superpowers@agent-browser[0m [36m85.4K installs[0m
+[38;5;102m└ https://skills.sh/bankai-skills/superpowers/agent-browser[0m
+
+[38;5;145mpbakaus/impeccable@critique[0m [36m82.6K installs[0m
+[38;5;102m└ https://skills.sh/pbakaus/impeccable/critique[0m
+
+[38;5;145mgithub/awesome-copilot@playwright-explore-website[0m [36m14.8K installs[0m
+[38;5;102m└ https://skills.sh/github/awesome-copilot/playwright-explore-website[0m
+
+[38;5;145mmsmps/opentui-skill@opentui[0m [36m64.5K installs[0m
+[38;5;102m└ https://skills.sh/msmps/opentui-skill/opentui[0m
+
+[38;5;145mexpo/skills@eas-update[0m [36m12.6K installs[0m
+[38;5;102m└ https://skills.sh/expo/skills/eas-update[0m
+
+[38;5;145maddyosmani/agent-skills@doubt-driven-development[0m [36m62.3K installs[0m
+[38;5;102m└ https://skills.sh/addyosmani/agent-skills/doubt-driven-development[0m
+
+[38;5;145mgithub/awesome-copilot@java-junit[0m [36m11.8K installs[0m
+[38;5;102m└ https://skills.sh/github/awesome-copilot/java-junit[0m
+
+[38;5;145mcoreyhaines31/marketingskills@marketing-loops[0m [36m52.1K installs[0m
+[38;5;102m└ https://skills.sh/coreyhaines31/marketingskills/marketing-loops[0m
+
+[38;5;145mgithub/awesome-copilot@csharp-xunit[0m [36m10.4K installs[0m
+[38;5;102m└ https://skills.sh/github/awesome-copilot/csharp-xunit[0m
+
+[38;5;145mantfu/skills@vitest[0m [36m45.6K installs[0m
+[38;5;102m└ https://skills.sh/antfu/skills/vitest[0m
+
+[38;5;145msamber/cc-skills-golang@golang-security[0m [36m43.5K installs[0m
+[38;5;102m└ https://skills.sh/samber/cc-skills-golang/golang-security[0m
+
+[38;5;145msamber/cc-skills-golang@golang-database[0m [36m41.9K installs[0m
+[38;5;102m└ https://skills.sh/samber/cc-skills-golang/golang-database[0m
+
+[38;5;145msamber/cc-skills-golang@golang-cli[0m [36m40.5K installs[0m
+[38;5;102m└ https://skills.sh/samber/cc-skills-golang/golang-cli[0m
+
+[38;5;145msamber/cc-skills-golang@golang-popular-libraries[0m [36m40.4K installs[0m
+[38;5;102m└ https://skills.sh/samber/cc-skills-golang/golang-popular-libraries[0m
+
+[38;5;145msamber/cc-skills-golang@golang-stretchr-testify[0m [36m40.3K installs[0m
+[38;5;102m└ https://skills.sh/samber/cc-skills-golang/golang-stretchr-testify[0m
+
+[38;5;145msamber/cc-skills-golang@golang-grpc[0m [36m40.2K installs[0m
+[38;5;102m└ https://skills.sh/samber/cc-skills-golang/golang-grpc[0m
+
+[38;5;145msamber/cc-skills-golang@golang-spf13-cobra[0m [36m38.1K installs[0m
+[38;5;102m└ https://skills.sh/samber/cc-skills-golang/golang-spf13-cobra[0m
+
+[38;5;145msamber/cc-skills-golang@golang-how-to[0m [36m37.4K installs[0m
+[38;5;102m└ https://skills.sh/samber/cc-skills-golang/golang-how-to[0m
+
+[38;5;145msoftware-mansion/argent@argent-test-ui-flow[0m [36m28.4K installs[0m
+[38;5;102m└ https://skills.sh/software-mansion/argent/argent-test-ui-flow[0m
+
+[38;5;145msoftware-mansion/argent@argent-screenshot-diff[0m [36m27.1K installs[0m
+[38;5;102m└ https://skills.sh/software-mansion/argent/argent-screenshot-diff[0m
+
+[38;5;145mmbfinotti/advertising-skills@ad-creative-brief[0m [36m25.6K installs[0m
+[38;5;102m└ https://skills.sh/mbfinotti/advertising-skills/ad-creative-brief[0m
+
+[38;5;145mmbfinotti/advertising-skills@ad-creative-test-plan[0m [36m25.5K installs[0m
+[38;5;102m└ https://skills.sh/mbfinotti/advertising-skills/ad-creative-test-plan[0m
+
+[38;5;145mriekelt/principal-engineer@writing-unit-tests[0m [36m21K installs[0m
+[38;5;102m└ https://skills.sh/riekelt/principal-engineer/writing-unit-tests[0m
+
+[38;5;145mdart-lang/skills@dart-add-unit-test[0m [36m19.9K installs[0m
+[38;5;102m└ https://skills.sh/dart-lang/skills/dart-add-unit-test[0m
+
+[38;5;145mwshobson/agents@dotnet-backend-patterns[0m [36m19.4K installs[0m
+[38;5;102m└ https://skills.sh/wshobson/agents/dotnet-backend-patterns[0m
+
+[38;5;145mjeffallan/claude-skills@golang-pro[0m [36m19.2K installs[0m
+[38;5;102m└ https://skills.sh/jeffallan/claude-skills/golang-pro[0m
+
+[38;5;145mdart-lang/skills@dart-generate-test-mocks[0m [36m18.9K installs[0m
+[38;5;102m└ https://skills.sh/dart-lang/skills/dart-generate-test-mocks[0m
+
+[38;5;145mejirocodes/agent-skills@svelte5-best-practices[0m [36m18K installs[0m
+[38;5;102m└ https://skills.sh/ejirocodes/agent-skills/svelte5-best-practices[0m
+
+[38;5;145mwshobson/agents@github-actions-templates[0m [36m17.9K installs[0m
+[38;5;102m└ https://skills.sh/wshobson/agents/github-actions-templates[0m
+
+[38;5;145maffaan-m/ecc@docker-patterns[0m [36m15.1K installs[0m
+[38;5;102m└ https://skills.sh/affaan-m/ecc/docker-patterns[0m
+
+[38;5;145mcitrolabs/ego-lite@ego-browser[0m [36m14.9K installs[0m
+[38;5;102m└ https://skills.sh/citrolabs/ego-lite/ego-browser[0m
+
+[38;5;145mwshobson/agents@gitlab-ci-patterns[0m [36m13.4K installs[0m
+[38;5;102m└ https://skills.sh/wshobson/agents/gitlab-ci-patterns[0m
+
+[38;5;145msolana-mobile/solana-mobile-skills@solana-mobile[0m [36m13.2K installs[0m
+[38;5;102m└ https://skills.sh/solana-mobile/solana-mobile-skills/solana-mobile[0m
+
+[38;5;145mwshobson/agents@llm-evaluation[0m [36m13.1K installs[0m
+[38;5;102m└ https://skills.sh/wshobson/agents/llm-evaluation[0m
+
+[38;5;145mwshobson/agents@wcag-audit-patterns[0m [36m12.8K installs[0m
+[38;5;102m└ https://skills.sh/wshobson/agents/wcag-audit-patterns[0m
+
+[38;5;145msamber/developer-relations-skills@docs-code-sample-standards[0m [36m12.8K installs[0m
+[38;5;102m└ https://skills.sh/samber/developer-relations-skills/docs-code-sample-standards[0m
+
+[38;5;145myusukebe/hono-skill@hono[0m [36m12.6K installs[0m
+[38;5;102m└ https://skills.sh/yusukebe/hono-skill/hono[0m
+
+[38;5;145maffaan-m/ecc@django-tdd[0m [36m11.9K installs[0m
+[38;5;102m└ https://skills.sh/affaan-m/ecc/django-tdd[0m
+
+[38;5;145maffaan-m/ecc@kotlin-coroutines-flows[0m [36m11.4K installs[0m
+[38;5;102m└ https://skills.sh/affaan-m/ecc/kotlin-coroutines-flows[0m
+
+[38;5;145mwshobson/agents@dependency-upgrade[0m [36m11.3K installs[0m
+[38;5;102m└ https://skills.sh/wshobson/agents/dependency-upgrade[0m
+
+[38;5;145maffaan-m/ecc@laravel-tdd[0m [36m11.3K installs[0m
+[38;5;102m└ https://skills.sh/affaan-m/ecc/laravel-tdd[0m
+
+[38;5;145mwshobson/agents@dbt-transformation-patterns[0m [36m11.2K installs[0m
+[38;5;102m└ https://skills.sh/wshobson/agents/dbt-transformation-patterns[0m
+
+[38;5;145mwshobson/agents@airflow-dag-patterns[0m [36m11.2K installs[0m
+[38;5;102m└ https://skills.sh/wshobson/agents/airflow-dag-patterns[0m
+
+[38;5;145mwshobson/agents@sast-configuration[0m [36m11K installs[0m
+[38;5;102m└ https://skills.sh/wshobson/agents/sast-configuration[0m
+
+[38;5;145maffaan-m/ecc@browser-qa[0m [36m10.6K installs[0m
+[38;5;102m└ https://skills.sh/affaan-m/ecc/browser-qa[0m
+
+[38;5;145minference-sh/skills@agent-browser[0m [36m12 installs[0m
+[38;5;102m└ https://skills.sh/inference-sh/skills/agent-browser[0m
+
+[38;5;145mvyralcontent/content-skills@viral-instagram-reels[0m [36m11 installs[0m
+[38;5;102m└ https://skills.sh/vyralcontent/content-skills/viral-instagram-reels[0m
+
+[38;5;145mskills-101/superpowers@agent-browser[0m [36m11 installs[0m
+[38;5;102m└ https://skills.sh/skills-101/superpowers/agent-browser[0m
+
+[38;5;145minference-sh/skills@youtube-thumbnail-design[0m [36m11 installs[0m
+[38;5;102m└ https://skills.sh/inference-sh/skills/youtube-thumbnail-design[0m
+
+[38;5;145mhalt-catch-fire/superpowers@agent-browser[0m [36m9 installs[0m
+[38;5;102m└ https://skills.sh/halt-catch-fire/superpowers/agent-browser[0m
+
+[38;5;145mhalt-catch-fire/mutiny@agent-browser[0m [36m9 installs[0m
+[38;5;102m└ https://skills.sh/halt-catch-fire/mutiny/agent-browser[0m
+
